@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @foxbeefly
 - 👀 I’m interested in coding
-- 🌱 I’m currently playing with VBA, Scratch, HTML5 & CSS
+- 🌱 I’m currently playing with VBA, Scratch, HTML5 & CSS, PHP, MySQL, MongoDB and more...
+- 🧪 I recently became a Young Engineers instructor, helping kids to love learning STEM
 - 📫 misterfoxonline@stylus.co.za
 
 <!---
